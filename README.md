@@ -1,6 +1,6 @@
 # News Explorer
 
-A [website](https://abra-newsapp.students.nomoreparties.site/) where users can search for news articles and save them to their profiles.
+A website where users can search for news articles and save them to their profiles.
 This repository contains the frontend built with React.js and Node.js.
 
 
