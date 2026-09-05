@@ -33,9 +33,11 @@ In this project, we work with two APIs:
 
 ## Problem encountered
   - **News API** 
-The project requested to retreive articles from NewsAPI once user entered a search word, but the free Developer account only allows search for development and testing purposes. That makes it impossible to get news on the frontend using our domainame, but return the below message instead: 
+The project requested to retreive articles from NewsAPI once user entered a search word, but the free Developer account only allows search for development and testing purposes. That makes it impossible to get news on the frontend using our domain name, but return the below message instead: 
 > "Requests from the browser are not allowed on the Developer plan, except from localhost."
-In other to allow user to retrieve data, we look for alternatives by referring to APIs available [here](https://github.com/public-apis/public-apis). [TheNewsAPI](https://www.thenewsapi.com) will be used in replacement in the future.
+
+In order to allow user to retrieve data, we used alternatives by referring to APIs available [here](https://github.com/public-apis/public-apis). [TheNewsAPI](https://www.thenewsapi.com) will be used in replacement in the future, after completion of the program on a personal portfolio.
+**Update 2026**: Domain used to validate this project is currently unavailable, specific access was given just for a short time for project completion.
 
 
 ## Available Scripts
